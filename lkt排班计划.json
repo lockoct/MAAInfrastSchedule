@@ -1,7 +1,7 @@
 {
   "author": "lkt",
   "description": "",
-  "id": 1711558507636703,
+  "id": 1715496742959567,
   "title": "lkt自用",
   "buildingType": 243,
   "planTimes": "3班",
@@ -37,9 +37,9 @@
             "skip": true,
             "product": "LMD",
             "operators": [
-              "银灰",
-              "孑",
-              "空弦"
+              "空弦",
+              "伺夜",
+              "但书"
             ],
             "sort": false,
             "autofill": false
@@ -162,7 +162,7 @@
             "skip": false,
             "operators": [
               "陈",
-              "伺夜"
+              "红"
             ],
             "sort": false,
             "autofill": false
@@ -192,7 +192,7 @@
     },
     {
       "name": "中午换班（最高组16）",
-      "description": "最高组16-8，换下次高组",
+      "description": "最高组16-8，次高组回复心情",
       "Fiammetta": {
         "enable": false,
         "target": "",
@@ -221,9 +221,9 @@
             "skip": false,
             "product": "LMD",
             "operators": [
-              "能天使",
-              "德克萨斯",
-              "拉普兰德"
+              "银灰",
+              "孑",
+              "琳琅诗怀雅"
             ],
             "sort": false,
             "autofill": false
@@ -304,39 +304,21 @@
         "dormitory": [
           {
             "skip": false,
-            "operators": [
-              "流明",
-              "闪灵",
-              "银灰",
-              "孑",
-              "空弦"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
-            "operators": [
-              "杜林",
-              "蜜莓",
-              "断罪者",
-              "食铁兽",
-              "红豆"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
-            "operators": [
-              "塑心",
-              "琴柳",
-              "砾",
-              "槐琥",
-              "远牙"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
@@ -364,7 +346,7 @@
             "skip": true,
             "operators": [
               "陈",
-              "伺夜"
+              "红"
             ],
             "sort": false,
             "autofill": false
@@ -423,9 +405,9 @@
             "skip": false,
             "product": "LMD",
             "operators": [
-              "银灰",
-              "孑",
-              "空弦"
+              "空弦",
+              "伺夜",
+              "但书"
             ],
             "sort": false,
             "autofill": false
@@ -576,7 +558,7 @@
     },
     {
       "name": "中午换班（换下最高组）",
-      "description": "换下最高组，次高组16-8",
+      "description": "最高组回复心情，次高组16-8",
       "Fiammetta": {
         "enable": false,
         "target": "",
@@ -594,9 +576,9 @@
             "skip": false,
             "product": "LMD",
             "operators": [
-              "能天使",
-              "德克萨斯",
-              "拉普兰德"
+              "银灰",
+              "孑",
+              "琳琅诗怀雅"
             ],
             "sort": false,
             "autofill": false
@@ -605,9 +587,9 @@
             "skip": true,
             "product": "LMD",
             "operators": [
-              "银灰",
-              "孑",
-              "空弦"
+              "空弦",
+              "伺夜",
+              "但书"
             ],
             "sort": false,
             "autofill": false
@@ -688,39 +670,21 @@
         "dormitory": [
           {
             "skip": false,
-            "operators": [
-              "流明",
-              "闪灵",
-              "龙舌兰",
-              "巫恋",
-              "卡夫卡"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
-            "operators": [
-              "杜林",
-              "蜜莓",
-              "清流",
-              "温蒂",
-              "森蚺"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
-            "operators": [
-              "塑心",
-              "琴柳",
-              "帕拉斯",
-              "红云",
-              "稀音"
-            ],
+            "operators": [],
             "sort": false,
-            "autofill": false
+            "autofill": true
           },
           {
             "skip": false,
